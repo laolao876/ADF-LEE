@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/laolao876/ADF-LEE#readme",
   "dependencies": {
-    "mrlee-tea": "^1.0.2",
     "npm-test_mrlee": "^1.0.1",
     "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "mrlee-tea": "^1.0.2"
   }
 }
