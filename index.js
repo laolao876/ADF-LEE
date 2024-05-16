@@ -1,6 +1,6 @@
 // index.js
-function Hello Tea(){
+function HelloTea(){
 	return "Hello Tea"
 }
 
-module.exprorts = hello Tea
+module.exprorts = HelloTea
